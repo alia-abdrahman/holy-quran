@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd:*)",
+      "Bash(cat:*)",
+      "Bash(flutter clean:*)",
+      "Bash(flutter pub get:*)",
+      "Bash(curl:*)",
+      "Bash(file:*)",
+      "Bash(cd /Users/aliaabdrahman/Documents/Side\\\\ Projects/quran_app && flutter analyze:*)",
+      "Bash(find:*)"
+    ]
+  }
+}
